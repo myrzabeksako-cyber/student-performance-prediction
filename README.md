@@ -138,7 +138,7 @@ The following regression algorithms were evaluated:
 
 # Machine Learning Results
 
-![ML Results](figures/ml_results.png)
+![ML Results](ml_results.png)
 
 The comparison includes:
 
