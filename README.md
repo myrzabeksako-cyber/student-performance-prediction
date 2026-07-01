@@ -99,7 +99,7 @@ The project includes multiple visualizations to better understand the dataset.
 
 ### EDA Dashboard
 
-![EDA](figures/eda_overview.png)
+![EDA](eda_overview.png)
 
 The analysis includes:
 
