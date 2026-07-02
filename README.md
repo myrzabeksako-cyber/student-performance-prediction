@@ -1,14 +1,14 @@
-# 🎓 Student Academic Performance Prediction
+# Student Academic Performance Prediction
 
 A complete Machine Learning project that predicts student exam scores based on lifestyle, behavioral, and demographic factors.
 
 The project covers the entire data science workflow:
 
-- 📊 Exploratory Data Analysis (EDA)
-- 🧹 Data Cleaning & Preprocessing
-- 🤖 Machine Learning Model Comparison
-- 📈 Feature Importance Analysis
-- 🌐 Interactive Streamlit Web Application
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Machine Learning Model Comparison
+- Feature Importance Analysis
+- Interactive Streamlit Web Application
 
 ---
 
